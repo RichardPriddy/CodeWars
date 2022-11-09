@@ -1,0 +1,14 @@
+C:\Projects\personal\code-wars-kata\Kata.App\bin\Debug\netcoreapp3.1\CodeWars.App.exe
+C:\Projects\personal\code-wars-kata\Kata.App\bin\Debug\netcoreapp3.1\CodeWars.App.deps.json
+C:\Projects\personal\code-wars-kata\Kata.App\bin\Debug\netcoreapp3.1\CodeWars.App.runtimeconfig.json
+C:\Projects\personal\code-wars-kata\Kata.App\bin\Debug\netcoreapp3.1\CodeWars.App.runtimeconfig.dev.json
+C:\Projects\personal\code-wars-kata\Kata.App\bin\Debug\netcoreapp3.1\CodeWars.App.dll
+C:\Projects\personal\code-wars-kata\Kata.App\bin\Debug\netcoreapp3.1\CodeWars.App.pdb
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.csproj.AssemblyReference.cache
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.AssemblyInfoInputs.cache
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.AssemblyInfo.cs
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.csproj.CoreCompileInputs.cache
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.dll
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.pdb
+C:\Projects\personal\code-wars-kata\Kata.App\obj\Debug\netcoreapp3.1\CodeWars.App.genruntimeconfig.cache
